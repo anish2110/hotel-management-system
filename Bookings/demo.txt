@@ -1,0 +1,7 @@
+City: Delhi
+Hotel: JW Mariott Hotel
+Room: Apartment Suite
+Quantity of rooms: 10
+Check In date: 2020-06-08
+Check Out date: 2020-06-10
+Bill: Rs.375980
