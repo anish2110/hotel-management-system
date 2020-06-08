@@ -1,0 +1,3 @@
+The Baroda Residency	Single Bed 25 2500	Double Bed 20 4000	Apartment Suite 35 7500	
+The Ferm Residency	Single Bed 10 1500	Double Bed 15 2500	
+The Veronica Hotel	Single Bed 15 2000	Double Bed 20 3500	

@@ -1,0 +1,3 @@
+Hotel Olive Tree	Single Bed 14 1488	Double Bed 18 2100	
+The Landmark Towers	Single Bed 25 6552	Double Bed 22 10199	
+President Hotel	Single Bed 10 7990	Double Bed 10 12099	Triple Bed 10 16099	

@@ -1,0 +1,4 @@
+Hotel Merit	Single Bed 15 1500	Double Bed 15 2500	
+Ginger Hotel	Single Bed 10 2000	Double Bed 20 4000	
+Hotel Limra	Single Bed 10 4000	Double Bed 15 6000	
+Hotel Rest Inn	Single Bed 10 2500	Double Bed 15 4000	

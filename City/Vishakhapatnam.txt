@@ -1,0 +1,3 @@
+Novotel	Single Bed 15 2000	Double Bed 15 3500	Apartment Suite 15 5000	
+The Park	Single Bed 20 2500	Double Bed 20 4500	
+Dolphin Hotel	Single Bed 25 2000	Double Bed 25 3000	

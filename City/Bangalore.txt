@@ -1,0 +1,5 @@
+The Signature Inn	Apartment Suite 5 8999	Single Bed 15 6999	Double Bed 26 7999	Triple Bed 22 8999	
+Hotel City Centaur International	Single Bed 25 770	Double Bed 20 1400	Triple Bed 20 1900	
+FairFeild by Marriott	Single Bed 40 4032	Double Bed 30 7050	
+Hotel Shangrila	Double Bed 23 600	Triple Bed 20 900	
+Aloft Bengaluru Cessna 	Single Bed 38 10148	Double Bed 40 13028	Triple Bed 29 15099	

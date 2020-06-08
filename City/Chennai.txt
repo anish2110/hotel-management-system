@@ -1,0 +1,3 @@
+Zostel	Double Bed 25 1398	Triple Bed 20 3876	
+Grand Cascade Hotel	Single Bed 39 2016	Double Bed 25 4087	Triple Bed 23 6098	
+Hotel Thaj Regency	Double Bed 22 475	

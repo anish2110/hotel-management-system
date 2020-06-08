@@ -1,0 +1,4 @@
+Cambay Grand Ahmedabad	Apartment Suite 10 10000	Single Bed 20 5000	Double Bed 25 7000	
+Hotel Dream Villa	Double Bed 20 2500	Triple Bed 20 3000	
+Urbane The Hotel	Single Bed 19 2000	Double Bed 15 3000	Triple Bed 12 4000	
+Treatotel Hotel	Single Bed 30 1400	Double Bed 20 1900	

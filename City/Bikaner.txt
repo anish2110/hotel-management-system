@@ -1,0 +1,2 @@
+Hotel Sagar	Single Bed 20 1656	Double Bed 34 3666	
+Hotel Raj Visal Palace	Apartment Suite 10 9292	Single Bed 23 2296	Triple Bed 21 4578	

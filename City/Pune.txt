@@ -1,0 +1,3 @@
+Trinca Residency	Double Bed 12 798	Triple Bed 15 1299	
+Clarks Avadh	Single Bed 20 4032	Double Bed 25 7009	Triple Bed 16 9999	
+Hyatt Regency	Apartment Suite 5 20099	Single Bed 40 5039	Double Bed 50 8099	

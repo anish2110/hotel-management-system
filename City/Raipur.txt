@@ -1,0 +1,3 @@
+Hotel Vikram Palace	Single Bed 15 2000	Double bed 15 3500	
+Central Residency Hotel	Single Bed 25 2500	Double Bed 30 4500	
+Brijrama Palace	Single Bed 15 2000	Double Bed 15 3500	Apartment Suite 20 5000	

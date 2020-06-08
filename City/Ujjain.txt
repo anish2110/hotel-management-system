@@ -1,0 +1,3 @@
+Hotel Keshar Laxmi	Single Bed 20 1000	Double Bed 20 1800	
+Hotel Midland	Single Bed 20 1500	Double Bed 20 2500	
+Hotel Shikhar Inn	Single Bed 15 2000	Double Bed 15 3500	

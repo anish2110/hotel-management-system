@@ -1,0 +1,4 @@
+Hotel Pratiba Heritage	Single Bed 10 1500	Double Bed 15 2500	
+Uday Suites	Single Bed 10 2500	Double Bed 10 4000	Apartment Suite 40 6000	
+KTDC Mascot Hotel	Single Bed 30 3000	Double Bed 30 5000	
+Ranga Maalika	Single Bed 10 2000	Double Bed 15 4000	

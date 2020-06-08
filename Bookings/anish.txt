@@ -1,0 +1,21 @@
+City: alwar
+Hotel: Aman Bagh
+Room: Apartment Suite
+Quantity of rooms: 3
+Check In date: 2020-04-17
+Check Out date: 2020-04-25
+Bill: Rs.600000
+City: jaipur
+Hotel: Four Points By Sheraton
+Room: Single Bed
+Quantity of rooms: 15
+Check In date: 2020-04-26
+Check Out date: 2020-05-03
+Bill: Rs.1538880
+City: jodhpur
+Hotel: Treehouse Raj Bagh
+Room: Double Bed
+Quantity of rooms: 4
+Check In date: 2020-05-03
+Check Out date: 2020-05-17
+Bill: Rs.951328

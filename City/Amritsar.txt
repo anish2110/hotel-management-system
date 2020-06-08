@@ -1,0 +1,3 @@
+HK Clarks Inn	Single Bed 20 2740	Double Bed 30 3740	
+Divud Econ Hotel	Double Bed 10 1200	Triple Bed 14 1600	
+Vivo Hotel	Double Bed 25 2049	Triple Bed 20 2949	

@@ -1,0 +1,4 @@
+Hotel Hare Rama	Double Bed 20 600	Triple Bed 20 800	
+Prayag Hotel	Single Bed 15 2000	Double Bed 28 3500	Triple Bed 20 4000	
+Hotel Tulip Inn	Double Bed 15 2499	Triple Bed 18 3399	
+Luxmi Hotel	Double Bed 30 699	

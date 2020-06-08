@@ -1,0 +1,10 @@
+Seventh Sense	Single Bed 38 10679	Double Bed 35 14876	
+JW Mariott Hotel	Apartment Suite 15 18799	Single Bed 60 9431	Double Bed 57 14999	
+The Westin	Single Bed 36 10019	Double Bed 22 16089	
+The Leela	Apartment Suite 13 49000	Single Bed 47 15022	Double Bed 40 23099	Triple Bed 46 35699	
+ITC Maurya	Single Bed 38 12379	Double Bed 49 21899	Triple Bed 25 29099	
+Pullam	Single Bed 60 18211	Double Bed 55 30912	
+Hotel Picasso Prive	Single Bed 38 2122	Double Bed 40 4099	
+Lemon Tree Premier	Single Bed 50 3676	Double Bed 38 4899	
+Roseate House	Single Bed 20 6349	Double Bed 15 9899	
+Hotel Le Roi	Double Bed 15 2133	

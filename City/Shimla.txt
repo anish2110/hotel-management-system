@@ -1,0 +1,3 @@
+Hotel Southgate	Single Bed 10 1500	Double Bed 30 2500	
+Hotel Taj Palace	Single Bed 10 2000	Double Bed 30 3500	Apartment Suite 20 5000	
+Hotel Pineview	Single Bed 15 2500	Double Bed 35 4000	

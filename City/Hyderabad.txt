@@ -1,0 +1,5 @@
+Amrutha castle	Single Bed 30 1768	Double bed 25 3099	Triple Bed 20 4099	
+Lakshmi Residency	Double Bed 15 907	Triple Bed 22 1499	
+Taj Krishna	Apartment Suite 10 29000	Single Bed 50 9157	Double bed 68 16969	
+ITC Kohenur	Single Bed 68 10373	Double Bed 70 16998	Triple Bed 48 20999	
+Marriott Executive Apartments	Apartment Suite 6 15999	Single Bed 15 8663	

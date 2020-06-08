@@ -1,0 +1,5 @@
+Hotel The Platinum	Double Bed 15 1022	Triple Bed 10 1899	
+Hotel West Willows	Single Bed 10 1160	Double Bed 10 1879	
+ITC Royal Bengal	Apartment Suite 10 39099	Single Bed 70 9926	Double Bed 100 21999	
+JW Mariott Hotel	Single Bed 70 8841	Double Bed 85 15099	Triple Bed 65 21089	
+Radisson Kolkata	Single Bed 25 9921	Double Bed 30 16777	Triple Bed 20 19902	

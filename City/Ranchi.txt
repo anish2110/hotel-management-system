@@ -1,0 +1,4 @@
+Maplewood Hotel	Single Bed 50 2500	Double Bed 100 4000	Apartment Suite 100 6000	
+Radisson Blu Hotel	Single Bed 40 3000	Double Bed 40 4500	
+Chanakya BNR Hotel	Single Bed 20 1500	Double Bed 20 2500	
+Hotel Yuvraj Palace	Single Bed 10 1500	Double Bed 15 2500	Apartment Suite 10 4000	

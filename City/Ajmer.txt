@@ -1,0 +1,3 @@
+Hotel Ajmer Inn	Single Bed 20 1399	Double Bed 25 1899	Triple Bed 20 2499	
+Ambassador Hotel	Single Bed 35 3499	Double Bed 20 4599	
+Hotel Kingsway	Double Bed 14 1200	Triple Bed 15 1500	

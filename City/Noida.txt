@@ -1,0 +1,3 @@
+The Park Residency	Single Bed 15 2091	Triple Bed 10 5059	
+Crowne Plaza	Apartment Suites 5 23999	Single Bed 70 7280	Double Bed 59 13900	
+Mosiac Hotel	Single Bed 30 5252	Double Bed 20 7250	

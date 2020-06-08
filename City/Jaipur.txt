@@ -1,0 +1,5 @@
+Bella Casa	Apartment Suite 5 35099	Single Bed 30 10020	Double Bed 35 18077	
+Sujan Rajmahal Palace	Apartment Suite 10 46610	Double Bed 20 25099	
+Four Points By Sheraton	Single Bed 30 14656	Double Bed 40 27099	Triple Bed 35 33975	
+Samode Haveli	Double Bed 14 10089	Triple Bed 20 15044	
+Hotel Narain Niwas Palace	Single Bed 12 8344	Double Bed 15 14888	

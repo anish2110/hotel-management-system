@@ -1,0 +1,4 @@
+Hotel Atulya Taj	Apartment Suite 10 90000	Single Bed 20 50000	Double Bed 30 75000	
+Crystal Sarovar Premeire	Apartment Suite 20 6000	Single Bed 30 3000	Double Bed 40 4000	
+Hotel The Taj Vilas	Single Bed 35 20000	Double Bed 40 30000	
+The Retreat	Single Bed 10 2000	Double Bed 25 3500	Triple Bed 30 4000	

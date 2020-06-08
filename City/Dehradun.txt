@@ -1,0 +1,3 @@
+FabHotel Ashray	Double Bed 29 1216	Triple Bed 22 2319	
+Seyfert Sarovar Premiere	Apartment Suite 5 14999	Single Bed 36 7056	Double Bed 33 12999	
+Old British House	Double Bed 22 999	
